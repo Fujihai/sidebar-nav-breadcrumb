@@ -14,5 +14,5 @@ npm run dev
 
 ## 效果
 
-![](E:\sidebar-nav-breadcrumb\gif\sidebar-nav-breadcrumb.gif)
+![](/gif/sidebar-nav-breadcrumb.gif)
 
